@@ -1,10 +1,10 @@
 /* ========================================
    Landing Page - Scripts
-   ======================================== */
+   ======================================== */git
 
-// Aguarda o carregamento completo do DOM
+// Mensagem de boas-vindas no console
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Landing Page carregada com sucesso!');
+    console.log('DevLab - Landing Page carregada com sucesso!');
 });
 
 // TODO: Adicionar interatividade à página
